@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopButton", "LoopButton.csproj", "{7B0DA821-CC44-4313-A390-FC8E745F4196}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B0DA821-CC44-4313-A390-FC8E745F4196}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B0DA821-CC44-4313-A390-FC8E745F4196}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B0DA821-CC44-4313-A390-FC8E745F4196}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B0DA821-CC44-4313-A390-FC8E745F4196}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3E92A47-9486-4319-968D-25B5A5EF78CF}
+	EndGlobalSection
+EndGlobal
